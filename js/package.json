@@ -1,0 +1,12 @@
+{
+    "name": "oggetti-rinvenuti-assets",
+    "version": "1.0.0",
+    "description": "Gestore dipendenze e librerie JS locali per Oggetti Rinvenuti",
+    "private": true,
+    "scripts": {
+      "postinstall": "node setup-vendor.js"
+    },
+    "dependencies": {
+      "chart.js": "^4.4.1"
+    }
+  }
