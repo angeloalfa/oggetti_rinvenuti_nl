@@ -1,6 +1,8 @@
 # oggetti_rinvenuti_nl
 Oggetti Rinvenuti è un'applicazione web gestionale sviluppata in PHP, MySQL/MariaDB e jQuery per la catalogazione, tracciabilità e gestione telematica del materiale e degli oggetti smarriti negli ambiti ferroviari e di stazione (sviluppata per la Polizia Ferroviaria).
 
+il suffisso "nl" sta per new look, perché dopo circa 15 anni il progetto ha avuto una ristrutturazione grafica ed un'implementazione di nuove funzionalità
+
 # Oggetti Rinvenuti - Gestionale Web
 
 **Oggetti Rinvenuti** è la piattaforma web istituzionale sviluppata dal Settore Informatico del Compartimento Polizia Ferroviaria per l'Emilia Romagna per la tracciabilità, catalogazione e reportistica telematica dei beni e degli oggetti smarriti e rinvenuti negli ambiti ferroviari.
